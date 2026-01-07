@@ -1,10 +1,10 @@
-# AI Waste Oracle - Intelligent Waste Management System
+# Trashify - Computer Vision-Based Waste smart waste managment system
 
 An AI-powered web application that combines computer vision and generative AI to identify waste items and provide comprehensive disposal guidance.
 
 ## Overview
 
-AI Waste Oracle leverages YOLOv8 object detection to identify waste materials from uploaded images, then uses Google Gemini API to generate detailed disposal guidelines, hazard warnings, and safety precautions.
+Trashify - Smart Computer Vision-Based Waste Classifier leverages YOLOv8 object detection to identify waste materials from uploaded images, then uses Google Gemini API to generate detailed disposal guidelines, hazard warnings, and safety precautions.
 
 ## Key Features
 
